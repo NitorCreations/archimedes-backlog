@@ -1,0 +1,15 @@
+{
+	"jiraserver": "https://nitor-archimedes.atlassian.net",
+	"defaultusername": "you@nitor.com",
+	"orgname": "Archimedes",
+	"apibasepath": "",
+	"jql": "project = ATTRAVEL",
+	"orderby": "Rank",
+	"rankfield": "10011",
+	"itemtype":"Feature",
+	"description": "Benefit Hypothesis",
+	"links":{
+		"Nitor":"https://www.nitor.com",
+		"The Jira":"https://nitor-archimedes.atlassian.net"
+	}
+}

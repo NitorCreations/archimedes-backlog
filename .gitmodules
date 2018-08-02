@@ -1,0 +1,3 @@
+[submodule "jira-backlog"]
+	path = jira-backlog
+	url = https://github.com/NitorCreations/jira-backlog.git
